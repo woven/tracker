@@ -1,6 +1,6 @@
 # Tracker
 
-A space to communicate a roadmap and track todos and suggestions for the product at http://woven.co.
+Tracking a roadmap, todos and suggestions for http://woven.co.
 
 ## Contact
 
