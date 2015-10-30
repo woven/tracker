@@ -6,7 +6,7 @@ This is used for tracking higher level requests and new feature development. It 
 
 ## Contact
 
-hello@woven.co
+Say hi in the channel at http://woven.co/woven, or email hello@woven.co.
 
 ## Issues
 
