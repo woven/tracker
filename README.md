@@ -2,6 +2,8 @@
 
 Tracking a roadmap, todos and suggestions for http://woven.co.
 
+This is used for tracking higher level requests and new feature development. It will _not_ usually include ongoing improvements for performance and stability.
+
 ## Contact
 
 hello@woven.co
