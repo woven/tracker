@@ -14,6 +14,19 @@ View, star and add issues and suggestions at the [issue tracker][tracker].
 
 ## Roadmap
 
-Coming soon.
+Here's what we're up to for a first release:
+
+- Feed support, so channels can crawl external sources the community wishes to monitor.
+- Ability for anyone to create new channels.
+- Basic profile, showing channels you're participating in.
+- Ability to manage your profile picture.
+
+Here are some things on the horizon:
+
+- Better mobile support, like a basic wrapped app.
+- Say you're "Interested" on events; get app/email notifications some hours in advance.
+- Direct link to news, events and other items.
+
+What would you very much like to see? Open an issue and let us know!
 
 [tracker]: http://github.com/woven/tracker/issues
